@@ -2,5 +2,4 @@
 20082010180
 Kelas E
 # Note : 
-File praktikum10.rar dan reportexcel.rar memiliki file PHP dan juga composer serta vendor didalamnya.
-Folder biasa hanya berisi file Source Code tanpa composer dan vendor
+Kedua File praktikum10.rar, reportexcel.rar dan kedua folder biasa praktikum 10, report excel, memiliki isi file source code yang sama, namun file .rar memiliki vendor dan composer didalamnya yang memiliki ukuran yang besar, sehingga harus di compress menjadi .rar.
